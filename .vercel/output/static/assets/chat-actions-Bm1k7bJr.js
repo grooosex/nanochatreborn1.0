@@ -1,0 +1,1 @@
+export{p as sendOpening}from"./routes-DHls6bv4.js";
